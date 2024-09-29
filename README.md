@@ -45,9 +45,6 @@ The dataset is stored in a pickle file for easy loading.
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 - The Movie Database (TMDb) for providing the movie data and posters.
 - Streamlit for creating an easy-to-use web application framework.
